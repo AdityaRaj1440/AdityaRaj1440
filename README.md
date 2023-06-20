@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=AdityaRaj1440&show_icons=true&theme=dracula&locale=en" alt="AdityaRaj1440" />
+ </div>
 <!--
 **AdityaRaj1440/AdityaRaj1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
